@@ -2,7 +2,7 @@
 
 ---
 
-## Skills　/ 技術
+## Skills / 技術
 
 ### Core / 主力
 <p>

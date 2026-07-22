@@ -39,6 +39,3 @@ JavaScriptやTypeScript、Javaなどを学習中。
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,ps" />
 </p>
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-

@@ -39,3 +39,11 @@ JavaScriptやTypeScript、Javaなどを学習中。
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,ps" />
 </p>
+
+---
+
+##　GitHub Stats 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayato-h&show_icons=true&theme=tokyonight" />
+</p>

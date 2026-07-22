@@ -1,4 +1,7 @@
 # ayato-h
+
+---
+
 ## 💻 Skills
 
 ### Main

@@ -1,4 +1,8 @@
-# Ayato Horibe / 堀部彩斗
+<h1 align="center">Ayato Horibe / 堀部彩斗</h1>
+
+<p align="center">
+  Web Developer
+</p>
 
 ---
 

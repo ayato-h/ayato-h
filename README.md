@@ -11,7 +11,7 @@
 
 ### Learning / 学習中
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,ts,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,git,github" />
 </p>
 
 ### Experienced / 経験あり

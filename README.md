@@ -2,19 +2,19 @@
 
 ---
 
-## 💻 Skills
+## Skills　
 
-### Main
+### Core / 主力
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,java,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css" />
 </p>
 
-### Learning
+### Learning / 学習中
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=java,git,github" />
 </p>
 
-### Tools
+### Experienced / 経験あり
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,ps" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,ps,javascript" />
 </p>

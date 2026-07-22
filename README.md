@@ -1,8 +1,8 @@
-# ayato-h
+# Ayato Horibe /　堀部彩斗
 
 ---
 
-## Skills　
+## Skills　/ 技術
 
 ### Core / 主力
 <p>

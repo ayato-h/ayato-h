@@ -1,4 +1,4 @@
-# Ayato Horibe / 堀部彩斗
+# Ayato-h
 
 ---
 

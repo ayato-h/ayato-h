@@ -1,6 +1,4 @@
-<h1 align="center" >Ayato Horibe / 堀部彩斗</h1>
-
----
+# Ayato Horibe / 堀部彩斗
 
 ## Career / キャリア
 

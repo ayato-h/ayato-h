@@ -11,10 +11,10 @@
 
 ### Learning / 学習中
 <p>
-  <img src="https://skillicons.dev/icons?i=java,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,ts,git,github" />
 </p>
 
 ### Experienced / 経験あり
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,ps,javascript" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,ps" />
 </p>

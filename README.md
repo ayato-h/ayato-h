@@ -65,7 +65,6 @@
 
 ### GitHub Stats 
 
-<p>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayato-h&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayato-h&layout=compact&theme=tokyonight" />
-</p>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayato-h&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayato-h&layout=compact&theme=tokyonight" />

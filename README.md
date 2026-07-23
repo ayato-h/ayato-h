@@ -17,7 +17,7 @@
 
 | Age | Description |
 | --- | --- |
-| Around 11 years old | Started attending a programming class and learned the basics of programming and logical thinking through Scratch and QUREO. |
+| Age 11 | Started attending a programming class and learned the basics of programming and logical thinking through Scratch and QUREO. |
 | Age 13 | Began exploring web technologies such as JavaScript and HTML, gaining hands-on experience with writing code. |
 | Age 16 | Learned Django with Python and studied HTML/CSS while working on my first web application development projects. |
 | Age 17 (Present) | Currently learning JavaScript, TypeScript, and Java. |

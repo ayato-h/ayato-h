@@ -6,39 +6,23 @@
 
 ### 日本語
 
-**11歳頃**
+**11歳頃**-プログラミング教室に通い始め、ScratchやQUREOを通してプログラミングの基礎や論理的思考を学ぶ。
 
-プログラミング教室に通い始め、ScratchやQUREOを通してプログラミングの基礎や論理的思考を学ぶ。
+**13歳**-JavaScriptやHTMLなどのWeb技術に触れ、実際にコードを書く経験を始める。
 
-**13歳**
+**16歳**-PythonでDjangoに触れ、HTML/CSSを学びながら初めてのWebアプリケーション開発に取り組む。
 
-JavaScriptやHTMLなどのWeb技術に触れ、実際にコードを書く経験を始める。
-
-**16歳**
-
-PythonでDjangoに触れ、HTML/CSSを学びながら初めてのWebアプリケーション開発に取り組む。
-
-**17歳(現在)**
-
-JavaScriptやTypeScript、Javaなどを学習中。
+**17歳(現在)**-JavaScriptやTypeScript、Javaなどを学習中。
 
 ### English
 
-**Around age 11**
+**Around age 11**-Started attending a programming class and learned the basics of programming and logical thinking through Scratch and QUREO.
 
-Started attending a programming class and learned the basics of programming and logical thinking through Scratch and QUREO.
+**Age 13**-Began exploring web technologies such as JavaScript and HTML, gaining hands-on experience with writing code.
 
-**Age 13**
+**Age 16**-Learned Django with Python and studied HTML/CSS while working on my first web application development projects.
 
-Began exploring web technologies such as JavaScript and HTML, gaining hands-on experience with writing code.
-
-**Age 16**
-
-Learned Django with Python and studied HTML/CSS while working on my first web application development projects.
-
-**Age 17 (Present)**
-
-Currently learning JavaScript, TypeScript, and Java.
+**Age 17 (Present)**-Currently learning JavaScript, TypeScript, and Java.
 ---
 
 ## Skills / 技術

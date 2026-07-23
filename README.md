@@ -42,7 +42,7 @@ JavaScriptやTypeScript、Javaなどを学習中。
 
 ---
 
-###　GitHub Stats 
+### GitHub Stats 
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayato-h&show_icons=true&theme=tokyonight" />
 

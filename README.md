@@ -4,7 +4,9 @@
 
 ## Career / キャリア
 
-**10歳頃**
+### 日本語
+
+**11歳頃**
 
 プログラミング教室に通い始め、ScratchやQUREOを通してプログラミングの基礎や論理的思考を学ぶ。
 
@@ -20,6 +22,7 @@ PythonでDjangoに触れ、HTML/CSSを学びながら初めてのWebアプリケ
 
 JavaScriptやTypeScript、Javaなどを学習中。
 
+### English
 
 ---
 

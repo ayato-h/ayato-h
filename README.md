@@ -26,7 +26,7 @@
 
 ## Skills / 技術
 
-### Core / 主力
+<!-- ### Core / 主力
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,html,css" />
 </p>
@@ -39,6 +39,26 @@
 ### Experienced / 経験あり
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,ps" />
+</p> -->
+
+### Backend / バックエンド
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
+
+### Frontend / フロントエンド
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+</p>
+
+### Programming Languages / 言語
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+</p>
+
+### Tools / 開発ツール
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,ps" />
 </p>
 
 ---

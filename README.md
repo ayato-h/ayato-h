@@ -6,17 +6,13 @@
 
 ### 日本語
 
-**11歳頃**  
--プログラミング教室に通い始め、ScratchやQUREOを通してプログラミングの基礎や論理的思考を学ぶ。
+**11歳頃** - プログラミング教室に通い始め、ScratchやQUREOを通してプログラミングの基礎や論理的思考を学ぶ。
 
-**13歳**  
--JavaScriptやHTMLなどのWeb技術に触れ、実際にコードを書く経験を始める。
+**13歳**   - JavaScriptやHTMLなどのWeb技術に触れ、実際にコードを書く経験を始める。
 
-**16歳**  
--PythonでDjangoに触れ、HTML/CSSを学びながら初めてのWebアプリケーション開発に取り組む。
+**16歳**   - PythonでDjangoに触れ、HTML/CSSを学びながら初めてのWebアプリケーション開発に取り組む。
 
-**17歳(現在)**  
--JavaScriptやTypeScript、Javaなどを学習中。
+**17歳（現在）** - JavaScriptやTypeScript、Javaなどを学習中。
 
 ### English
 

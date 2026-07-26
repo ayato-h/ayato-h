@@ -26,7 +26,6 @@
 
 ## Skills / 技術
 
-<<<<<<< HEAD
 ### Core / 主力
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,html,css" />

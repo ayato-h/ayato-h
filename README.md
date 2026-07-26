@@ -26,21 +26,6 @@
 
 ## Skills / 技術
 
-<!-- ### Core / 主力
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css" />
-</p>
-
-### Learning / 学習中
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,git,github" />
-</p>
-
-### Experienced / 経験あり
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,ps" />
-</p> -->
-
 ### Backend / バックエンド
 <p>
   <img src="https://skillicons.dev/icons?i=python,django" />

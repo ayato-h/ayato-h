@@ -1,6 +1,10 @@
-# Ayato-h
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:26215C,30:534AB7,60:7F77DD,100:AFA9EC&animation=twinkling&text=Hi,%20I'm%20Ayato&fontAlign=22&fontAlignY=32&fontSize=48&fontColor=EEEDFE&desc=Age:%2017%20%7C%20Backend%20%26%20Web%20Developer&descAlign=32&descAlignY=60&descSize=21" alt="Hi, I'm Ayato banner" />
+</p>
 
----
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayato-h.ayato-h&left_color=534AB7&right_color=7F77DD&left_text=Profile%20Views" alt="Profile Views" />
+</p>
 
 ## Career / キャリア
 

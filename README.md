@@ -46,13 +46,13 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,ps" />
 </p>
 
+<!-- ---
+
+## Featured Project / 代表プロジェクト -->
+
 ---
 
-## Featured Project / 代表プロジェクト
-
----
-
-### GitHub Stats 
+### GitHub Stats / GitHub統計
 
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayato-h&show_icons=true&theme=tokyonight" />

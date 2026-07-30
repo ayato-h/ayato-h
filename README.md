@@ -52,7 +52,7 @@
 
 ---
 
-### GitHub Stats / GitHub統計
+## GitHub Stats / GitHub統計
 
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayato-h&show_icons=true&theme=tokyonight" />
